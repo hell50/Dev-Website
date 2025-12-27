@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  line-height: 1.5;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f0f8ff; /* azure */
+  color: #663399; /* purple */
+}
+
+img {
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.2);
+  margin: 20px 0;
+}
+
+h1 {
+  color: #ff6b6b;
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1.1rem;
+  margin: 5px 0;
+}
