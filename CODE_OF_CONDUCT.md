@@ -1,3 +1,5 @@
+*Lol it's a template. I wonder if the dev actually put any effort into th- GONK*
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
